@@ -34,6 +34,8 @@
  - ### **Business Intelligence**
     - [Como criei um projeto de Business Intelligence baseado nas minhas finanças pessoais (Parte 1)](http://bit.ly/39UoD9z): Projeto relacionado a inteligência de negócio desenvolvido para aplicar as técnicas de BI, entendimento do negócio, modelagem dos dados, criação de mock-up do dashboard.
     - [Como criei um projeto de Business Intelligence baseado nas minhas finanças pessoais (Parte 2)](http://bit.ly/37QfeP5): Continuação do projeto, onde mostro como desenvolvi os processos de extração, carga e transformação (ETL).
+    
+    _Ferramentas: SQL, PostgreSQL, Pentaho, Microsoft Power BI_
 
 [linkedin]: https://www.linkedin.com/in/matheus-de-oliveira-alves/
 [medium]: https://medium.com/@matheusdeoliveiraalves
