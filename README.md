@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Profissional da área de dados com capacidade em fornecer informações valiosas através de análise de dados. Focado em resolução de problemas de negócio com baseado em dados.
+## Profissional da área de dados com capacidade em fornecer informações valiosas através de análise de dados. Focado em resolução de problemas de negócio baseado em dados.
 
 ## **Entre contato comigo:**
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
